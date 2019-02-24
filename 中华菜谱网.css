@@ -1,0 +1,79 @@
+#index{width: 1350px;height: 4080px;margin: auto;}
+#header{width: 100%;height: 160px;}
+#content{width: 100%;height: 3610px;background-color: #F7F7F7;}
+#foot{width: 100%;height: 270px;background-color: #E6E6E6;}
+#head1{width: 100%;height: 30px;background-color: #F3F3F3;}
+#head2{width: 100%;height: 90px;background-color: #FFFFFF;}
+#head3{width: 100%;height: 40px;background-color: #FF8144;}
+#head1 ul{list-style: none;}
+#head1 li{float: left;font-size: 13px;margin-top: 5px;}
+#head1 a{color:#FF8144;text-decoration: none;}
+#head2 img{margin: 20px 0 0 170px;float: left;}
+#box{  width: 300px;  margin: 30px 0 0 450px;  font-family: 'Microsoft YaHei';  font-size: 14px; float: left; }
+input{  width: 210px;  border: 1px solid gainsboro;  height: 30px;  float: left;
+    background-image: url(images/search.jpg);  background-repeat: no-repeat;  background-size: 25px;
+    background-position:5px center;  padding:0 0 0 10px;  }
+#search{  width: 78px;  height: 32px;  float: right;  background:#FF8144;  color: white;
+    text-align: center;  line-height: 32px;  cursor: pointer;  }
+#head2_1{float: left;width: 110px;height: 32px;background-color:#FF8144;margin: 30px 0 0 30px; }
+#head2_1 a{margin-left:20px;font-size: 14px;color: white;text-decoration: none;line-height: 30px;}
+#head3_1{width: 80px;height: 40px;float: left;margin-left: 170px;}
+#head3_2{width: 120px;height: 40px;float: left;}
+#head3_3{width: 100px;height: 40px;float: left;}
+#head3_4{width: 100px;height: 40px;float: left;}
+#head3_5{width: 100px;height: 40px;float: left;}
+#head3_6{width: 130px;height: 40px;float: left;}
+#head3 li{list-style: none;margin-top: 7px;}
+#head3 a{font-size: 18px;color: white;text-decoration: none;}
+#head3 a:hover{color: red;}
+#head3 ul{float: left;}
+#head3 ul li{float: left;margin: -8px 0 0 30px;}
+#head3 ul a{font-size: 14px;}
+#con_left{width: 660px;height: 3610px;float: left;margin-left: 175px;}
+#con_left p{color: #FF8144;font-size: 24px;}
+#con1{width: 660px;height: 3500px;background-color: #FFFFFF;}
+#con1 img{width: 192px;  height: 224px; }
+#con1 a{font-size: 20px;color: black;text-decoration: none;}
+#con1 a:hover{color: red;}
+#con1 p{font-size: 12px;color: #51472B;}
+#con1_top{width: 660px;height: 3110px;}
+#con1_botton{width: 660px;height: 380px;margin-top: 20px;}
+#con1_botton p{margin-left: -600px;float: left;}
+#con1_botton a{margin-left: -600px;font-size: 14px;color:#51472B; }
+#con1_1{width: 190px;height: 3520px;float: left;margin-left: 15px;}
+#con1_2{width: 190px;height: 3520px;float: left;margin-left: 25px;}
+#con1_3{width: 190px;height: 3520px;float: left;margin-left: 25px;}
+#con_right{width: 330px;height: 3550px;float: left;border-left:1px gray solid;margin:20px 0 0 10px; }
+#p1{font-size: 20px;color: grey;margin-left: 20px;}
+#con2{width: 325px;height: 800px;}
+#con2 img{float: left;width: 130px;height: 105px;margin:150px 0 0 25px;}
+#p2{margin:-2px 0 0 25px;color: grey;}
+#con2 a{color: grey;font-size: 14px;text-decoration: none;margin-left:25px;}
+#con2 a:hover{color: red;}
+#con3{width: 325px;height: 1200px;margin-top: 400px;}
+#con3 p{margin-left: 25px;font-size: 20px;}
+#con3 a{color: grey;font-size: 14px;text-decoration: none;margin-left:25px;}
+#con3 a:hover{color: red;}
+#con3 img{margin: 300px 0 0 25px;}
+#foot1{width: 100%;height: 200px;}
+#foot1_left{width: 600px;height: 180px;font-size: 14px;color: grey;margin-left:180px;line-height: 10px;
+float: left;}
+#foot1_left img{margin-top: 30px;}
+#foot1_right{width: 400px;height: 180px;float: left;}
+#foot1_right1{width: 400px;height: 80px;}
+#foot1_right1 img{width: 80px;height: 80px;margin: 25px 0 0 10px;}
+#foot1_right2{width: 400px;height: 40px;}
+#foot1_right2 ul{margin-left: -35px;}
+#foot1_right2 li{float: left;font-size: 12px;list-style: none;margin:15px 0 0 10px;}
+#foot1_right2 a{color: grey;text-decoration: none;}
+#foot1_right2 a:hover{color: red;}
+#foot2{width: 100%;height: 70px;}
+#foot2 p{color: grey;color: grey;font-size: 12px;margin-left: 500px;}
+#foot2 li{list-style: none;float: left;font-size: 12px;margin-left: 10px;}
+#foot2 a{text-decoration: none;}
+#foot2 a:hover{color: red;}
+#foot2 a{color: grey;}
+
+
+
+
